@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605689966498",
+    "project_id": "fsm-employee",
+    "storage_bucket": "fsm-employee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605689966498:android:3538e05132dc78276eccfb",
+        "android_client_info": {
+          "package_name": "com.fsm.fsm_employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605689966498-h2d4k297kplomviiftm5sgm3qnqrdlv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtyaJqKaijCqzQTC5BTlbCWK6gUeh2eSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605689966498-eaum7gkojrbv58ijp7varg02v63jloq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
